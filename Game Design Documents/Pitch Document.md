@@ -1,0 +1,1 @@
+TLDR: An arcade game where the player plays 30 second micro-games in order to score as many points as possible. 
