@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engine Design/Style Guide.md",
+                "file": "Team Members/Team Roster Seating.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engine Design/Style Guide.md",
+                "file": "Team Members/Team Roster Seating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engine Design/Style Guide.md",
+                "file": "Team Members/Team Roster Seating.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engine Design/Style Guide.md"
+                "file": "Team Members/Team Roster Seating.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "b82be9b3fa4912dc",
   "lastOpenFiles": [
-    "Work Logs/Work Log 1.md",
     "Engine Design/Style Guide.md",
+    "Team Members/Team Roster Seating.md",
+    "Work Logs/Work Log 1.md",
     "Work Logs",
     "Engine Design/Servers.md",
     "Engine Design/Scene Tree.md",
