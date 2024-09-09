@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6f1bcd3cfde8003e",
+        "id": "253745dea34465a7",
         "type": "tabs",
         "children": [
           {
-            "id": "2de09b95eae77dab",
+            "id": "b82be9b3fa4912dc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Engine Design/Style Guide.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Engine Design/Style Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Engine Design/Style Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Engine Design/Style Guide.md"
+              }
             }
           },
           {
@@ -158,7 +163,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2de09b95eae77dab",
+  "active": "b82be9b3fa4912dc",
   "lastOpenFiles": [
     "Work Logs/Work Log 1.md",
     "Engine Design/Style Guide.md",
