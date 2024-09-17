@@ -2,5 +2,7 @@
   "cssTheme": "Everforest",
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "JetBrains Mono"
+  "interfaceFontFamily": "JetBrains Mono",
+  "theme": "obsidian",
+  "accentColor": ""
 }

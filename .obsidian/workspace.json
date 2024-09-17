@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Apirl Week 2.md",
+                "file": "Resources/Producing Notes Meeting 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Apirl Week 2.md",
+                "file": "Resources/Producing Notes Meeting 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Apirl Week 2.md",
+                "file": "Resources/Producing Notes Meeting 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Apirl Week 2.md"
+                "file": "Resources/Producing Notes Meeting 2.md"
               }
             }
           },
@@ -164,10 +163,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5675b4f5fd9b8e57",
+  "active": "540b48280e719fe9",
   "lastOpenFiles": [
-    "Team Members/April Rathamone.md",
+    "Tasks/Brendan Week 3.md",
+    "Resources/Producing Notes Meeting 2.md",
     "Tasks/Apirl Week 2.md",
+    "Team Members/April Rathamone.md",
     "Team Members/Andres Trujillo.md",
     "Resources/GAM200_NonApplicableStudio.md",
     "Work Logs/Work Log 1.md",
