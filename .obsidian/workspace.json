@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Producing Notes Meeting 2.md",
+                "file": "Resources/Producing Notes Meeting 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Producing Notes Meeting 2.md",
+                "file": "Resources/Producing Notes Meeting 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Producing Notes Meeting 2.md",
+                "file": "Resources/Producing Notes Meeting 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Producing Notes Meeting 2.md"
+                "file": "Resources/Producing Notes Meeting 3.md"
               }
             }
           },
@@ -165,8 +165,12 @@
   },
   "active": "540b48280e719fe9",
   "lastOpenFiles": [
-    "Resources/GAM200_NonApplicableStudio.md",
     "Resources/Producing Notes Meeting 2.md",
+    "Resources/Producing Notes Meeting 3.md",
+    "Resources/Useful Resources.md",
+    "Resources/GAM200_NonApplicableStudio.md",
+    "Tasks/April Week 3.md",
+    "Tasks/Andres Week 3.md",
     "Tasks/Brendan Week 3.md",
     "Tasks/Apirl Week 2.md",
     "Team Members/April Rathamone.md",
@@ -187,7 +191,6 @@
     "Team Members/Brendan Brice.md",
     "Engine Design/Core",
     "Engine Design/Scene Tree",
-    "Resources/Useful Resources.md",
     "Engine Design/Untitled/Untitled",
     "Engine Design/Servers",
     "TAs/Ruby.md",
