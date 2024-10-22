@@ -24,4 +24,4 @@ This is a Game Design thing. This semester its pretty short given there is not m
 
 # Art Licensing will kill me
 A list of all audio and art asset in the game with their licensing.
->[!caution] This can bounce the game back so this has to be absolutely correct.
+>[!caution] This can bounce the game back so this has to be absolutely correct. Ask Kishan to clear all their placeholder mines just waiting to explode.
