@@ -6,3 +6,7 @@ By the end of the pregrading meeting, we are going to have a really nice set of 
 Focus on passing the class instead of refactoring everything. We get a whole milestone next semester to handle that.
 
 The team pregrading should have as many teammates as possible.
+
+After this milestone, we can then just get things marked off as pregraded. This is going to make life easier as it guarantees things aren't bounced back based on those requirements.
+
+The game can be submitted early if it all is pregraded. This will allow the game to be submitted earlier and therefore there is nothing to pregrade.
