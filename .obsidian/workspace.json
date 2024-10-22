@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Producing Notes Meeting 5.md",
+                "file": "Resources/Producing Notes Meeting 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Producing Notes Meeting 5.md",
+                "file": "Resources/Producing Notes Meeting 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Producing Notes Meeting 5.md",
+                "file": "Resources/Producing Notes Meeting 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Producing Notes Meeting 5.md"
+                "file": "Resources/Producing Notes Meeting 6.md"
               }
             }
           },
@@ -166,7 +166,7 @@
   "active": "6f3089c7e076a1ec",
   "lastOpenFiles": [
     "Reshaping the project.md",
-    "Resources/Producing Notes Meeting 5.md",
+    "Resources/Producing Notes Meeting 6.md",
     "People interested in working with us.md",
     "Resources/Producing Notes Meeting 4.md",
     "Resources/Producing Notes Meeting 2.md",
