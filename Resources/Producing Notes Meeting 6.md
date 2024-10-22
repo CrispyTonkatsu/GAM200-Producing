@@ -9,4 +9,10 @@ The team pregrading should have as many teammates as possible.
 
 After this milestone, we can then just get things marked off as pregraded. This is going to make life easier as it guarantees things aren't bounced back based on those requirements.
 
-The game can be submitted early if it all is pregraded. This will allow the game to be submitted earlier and therefore there is nothing to pregrade.
+The game can be submitted early if it all is pregraded. This will allow the game to be submitted earlier and therefore there is nothing to grade and you can call this class as done.
+
+SHOW UP WITH A CURRENT AND A BACKUP BUILD.
+
+Additionally, make sure that ALL the software we use is ok with an MIT license, and if not, you have to let Prof. Beeman know so that we can get approval.
+
+Game credits are NOT required at the moment, but if you do, the credits should have all the proper licensing information. (Don't do this, this is p bad)
