@@ -16,3 +16,12 @@ SHOW UP WITH A CURRENT AND A BACKUP BUILD.
 Additionally, make sure that ALL the software we use is ok with an MIT license, and if not, you have to let Prof. Beeman know so that we can get approval.
 
 Game credits are NOT required at the moment, but if you do, the credits should have all the proper licensing information. (Don't do this, this is p bad)
+
+The tech guide, has a template, so we are gonna get massively trolled by our beautiful obsidian stuff. However, this is more of a description of our technical decisions. This can be spent weeks but this is expected to mainly show the decisions made in the engine.
+
+## Afforders Signifiers and Feedback
+This is a Game Design thing. This semester its pretty short given there is not much of a game yet. The main thing it has to do is describe the player's affordances (actions), how they are signified to be doable and how the game will provide feedback. This is not something we need to worry too much about given a designer will tackle it next semester. A little thinking ahead can help though.
+
+# Art Licensing will kill me
+A list of all audio and art asset in the game with their licensing.
+>[!caution] This can bounce the game back so this has to be absolutely correct.
